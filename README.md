@@ -1,6 +1,5 @@
-<div style="text-align:center;">
-  <img src="https://avatars.githubusercontent.com/u/145541494?v=4" alt="Immagine del Profilo" width="50%">
-</div>
+<img src="https://avatars.githubusercontent.com/u/145541494?v=4" alt="Immagine del Profilo" width="40%">
+
 # La professione della cyber security
 
 Nella professione della cybersecurity, la scelta del programma più prioritario su Kali Linux può variare notevolmente in base al ruolo specifico e alle responsabilità dell'individuo. Tuttavia, ci sono alcuni strumenti essenziali che sono spesso ritenuti prioritari per una vasta gamma di professionisti della cybersecurity. Uno di questi strumenti potrebbe essere anche Wireshark.
@@ -22,3 +21,4 @@ Wireshark è un analizzatore di protocolli di rete potente e versatile che conse
 - **Verifica della conformità**: Wireshark può essere utilizzato per verificare la conformità alle politiche di sicurezza e alle best practice di rete. Puoi controllare se il traffico di rete rispetta le regole e le politiche aziendali.
 
 Tuttavia, è importante notare che la professione della cybersecurity richiede una vasta gamma di competenze e strumenti, e Wireshark è solo uno degli strumenti disponibili su Kali Linux. La scelta del programma prioritario dipenderà dalle tue specifiche responsabilità e competenze all'interno del campo della cybersecurity.
+
